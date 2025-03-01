@@ -23,5 +23,5 @@ All Code belongs to:
 - **[dotFelixan](https://github.com/dotFelixan)**
 - **[Ariel Montero Majthenyi](https://github.com/timelord1102)**
 - **[Noxy](https://github.com/noxygalaxy)**<br><br>
-who made NEVKO-UI.
+who made [NEVKO-UI](https://steambrew.app/theme?id=PfApgfY80M1svZEWXQtX).
 I just copy pasted some stuff around
