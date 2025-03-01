@@ -14,6 +14,8 @@ A theme for Millennium that changes the top bar of Steam.
 ```Steam\steamui\skins```<br>
 4. Extract the zip in the directory<br>
 
+It should look like ```Steam\steamui\skins\SKUI\(content)```
+
 
 ## Using
 From Steam settings go to Themes and choose SKUI
