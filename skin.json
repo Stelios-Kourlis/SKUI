@@ -1,0 +1,87 @@
+{
+    "name": "SKUI",
+    "author": "kstelakis",
+    "description": "A modification of NEVKO-UI",
+    "RootColors": "root.css",
+    "tags": [
+        "NEVKO-UI",
+        "Modification"
+    ],
+    "version": "1.0.0",
+    "Steam-WebKit": "webkit.css",
+    "UseDefaultPatches": true,
+    "Patches": [
+        {
+            "MatchRegexString": ".*",
+            "TargetJs": "webkit.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "Header Code.css"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetJs": "Header Script.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "Main Steam Elements.css"
+        },
+        {
+            "MatchRegexString": "Menu$",
+            "TargetCss": "Main Steam Elements.css"
+        },
+        {
+            "MatchRegexString": "SuperNav$",
+            "TargetCss": "Main Steam Elements.css"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "Hide Profile Button.css"
+        },
+        {
+            "MatchRegexString": "Menu$",
+            "TargetCss": "Hide Profile Button.css"
+        },
+        {
+            "MatchRegexString": "SuperNav$",
+            "TargetCss": "Hide Profile Button.css"
+        },
+        {
+            "MatchRegexString": "Menu$",
+            "TargetJs": "Profile Buttons in Account Menu.js"
+        },
+        {
+            "MatchRegexString": "SuperNav$",
+            "TargetJs": "Profile Buttons in Account Menu.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "Compact Buttons.css"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetJs": "Compact Buttons.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "accents-config.css"
+        },
+        {
+            "MatchRegexString": "Menu$",
+            "TargetCss": "accents-config.css"
+        },
+        {
+            "MatchRegexString": "SuperNav$",
+            "TargetCss": "accents-config.css"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "RemoveUseless.css"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "Top URL Bar.css"
+        }
+    ]
+}
