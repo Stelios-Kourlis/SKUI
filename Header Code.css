@@ -53,9 +53,22 @@
 			/*Context Profile Button*/
 			._2UyOBeiSdBayaFdRa39N2O:nth-of-type(2),
 			._2UyOBeiSdBayaFdRa39N2O:nth-of-type(3),
-			._2UyOBeiSdBayaFdRa39N2O:nth-of-type(4),
-			._2UyOBeiSdBayaFdRa39N2O:nth-of-type(5) {
+			._2UyOBeiSdBayaFdRa39N2O:nth-of-type(4)
+
+			/*._2UyOBeiSdBayaFdRa39N2O:nth-of-type(5)*/
+				{
+
 				display: none !important;
+			}
+
+			._2UyOBeiSdBayaFdRa39N2O:nth-of-type(5) {
+				position: absolute;
+				left: 400px;
+				top: 8px;
+				color: #999494;
+				font-size: 12px;
+				box-sizing: content-box;
+				height: 30px;
 			}
 
 			/* Store, Library, etc. Buttons */
